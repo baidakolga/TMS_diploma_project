@@ -1,0 +1,9 @@
+header h1 {
+background: url("cat1.ipg") left / auto 100% no-repeat, url("cat1.ipg") right / auto 100% no-repeat;}
+.root {
+font-size: larger;}
+
+img.main-image {
+width: 300px;}
+img.additional-image {
+width: 180px;}
